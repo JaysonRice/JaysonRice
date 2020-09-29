@@ -8,3 +8,6 @@
      - [Frame Advance](https://github.com/JaysonRice/FrameAdvance) 
      - [Pets Please](https://github.com/JaysonRice/pets-please)
 - 📫 How to reach me: jayson.rice.95@gmail.com || [Dev Portfolio](https://jaysonrice.github.io/)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jaysonrice&layout=compact&theme=buefy&hide=tsql)
+![github stats](https://github-readme-stats.vercel.app/api?username=jaysonrice&show_icons=true&theme=buefy&hide=stars,issues&include_all_commits=true)
