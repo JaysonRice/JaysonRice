@@ -3,7 +3,6 @@
 ### Hi there, I'm Jayson 👋
 - ⌨️ I'm a full-stack developer at WellSky, where I've worked remotely since 2021 building C#/.NET and React features for a healthcare call center platform.
 - 📞 Most of my work is on patient phone systems, from Twilio IVRs to AI voice calls and call analysis.
-- 🤖 These days I build with Claude Code.
 - 🌱 My latest project is [Native Plant Swap](https://native-plant-swap-production.up.railway.app/), which shows you which plants are native where you live.
 - 🥾 Outside of work I like hiking, cross-stitching, and Smash Bros tournaments.
 - 💻 Older projects:
