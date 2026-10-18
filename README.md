@@ -10,4 +10,13 @@
      - [Bounce the Ball](https://github.com/JaysonRice/BounceTheBall), a browser game built with p5.js ([play it](https://bouncetheballgame.com/))
 - 📫 Reach me at jayson.rice.95@gmail.com or check out my [portfolio](https://jaysonrice.github.io/).
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jaysonrice&show_icons=true&theme=buefy&hide=stars,issues&include_all_commits=true)
+### What I work with
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,redux,azure,postgres,docker,git" height="48" alt="C#, .NET, React, TypeScript, Redux, Azure, PostgreSQL, Docker, Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twilio/twilio-original.svg" height="48" alt="Twilio" />
+</p>
+
+### Native Plant Swap
+Pick your county and see your ecoregion, the native plants recorded near you, and the wildlife they support.
+
+[![Native Plant Swap map colored by ecoregion](native-plant-swap.png)](https://native-plant-swap-production.up.railway.app/)
